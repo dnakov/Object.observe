@@ -1,0 +1,22 @@
+{
+  "name": "Object-observe-polyfill",
+  "version": "0.0.0",
+  "description": "Object.observe Polyfill/shim ============================ Thanks to my new job I have a lot more time to devote to things like this library.  It has gone a REALLY long time without updates and there is a lot that can be done to make it more functional.  I hope to be spending more time on it soon, but for now I've fixed all the bugs that I know of and have been reported.  Thanks to everyone for their reports, and keep them coming if you find one.",
+  "main": "Object.observe.poly.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dnakov/Object.observe"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnakov/Object.observe/issues"
+  },
+  "homepage": "https://github.com/dnakov/Object.observe"
+}
